@@ -1,0 +1,79 @@
+#container {
+    min-width: 80%;
+    max-width: 50%;
+    height: 580px;
+    background: #f6f6f6;
+    margin: 30px auto;
+    border-radius: 0.8em;
+    
+}
+
+h1 {
+    font-family: 'Questrial', sans-serif;
+    color: rgb(100, 100, 100);
+    margin: 0;
+    padding-left: 25px;
+    font-weight: normal;
+    line-height: 75px;
+    font-size: 60px;
+    
+}
+
+img {
+    width: 128px;
+    border-radius: 64px;
+    margin: 25px;
+    border-style: none;
+    box-shadow: 0px 0px 10px #ffc494
+}
+
+span {
+    font-weight: bold;
+    color: #ff7300
+}
+
+ul {
+    list-style-type: none;
+    width: 25%;
+    float: right;
+    margin: 15px;
+    padding: 5px;
+}
+
+li {
+    float: right;
+    margin: 5px;
+}
+
+li a {
+    color: black;
+}
+
+#instagram:hover {
+    color: #c13584
+}
+
+#twitter:hover {
+    color: rgb(52, 140, 255);
+}
+
+#github:hover {
+    color: #6e5494;
+}
+
+#dribbble:hover {
+    color: #ea4c89;
+}
+
+#linkedin:hover {
+    color: rgb(19, 79, 190);
+}
+
+hr {
+    width: 96%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 2px solid rgb(230, 230, 230);
+    border-radius: 5px;
+    
+}
