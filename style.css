@@ -32,6 +32,12 @@ h2 {
 
 p {
     font-family: 'Questrial', sans-serif;
+    color: rgb(100, 100, 100);
+    margin: 0;
+    padding-left: 25px;
+    font-weight: normal;
+    line-height: 75px;
+    font-size: 25px;
 }
 
 img {
