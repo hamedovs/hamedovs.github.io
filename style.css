@@ -28,7 +28,17 @@ h2 {
     font-weight: normal;
     line-height: 50px;
     font-size: 25px;
-}    
+}
+
+h3 {
+    font-family: 'Questrial', sans-serif;
+    color: rgb(100, 100, 100);
+    margin: 0;
+    padding-left: 25px;
+    padding-bottom: 50px;
+    font-weight: normal;
+    line-height: 50px;
+    font-size: 25px;
 
 img {
     width: 130px;
