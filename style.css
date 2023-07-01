@@ -66,6 +66,10 @@ li {
     margin: 5px;
 }
 
+a {
+    color: #ff7300
+}
+
 li a {
     color: black;
 }
